@@ -6,13 +6,13 @@ Feel free to comsume the APIs fo your personal project.
 
 ## [Hosted Version](https://djangorestcustom.herokuapp.com/)
 
-## [Register API](## [Hosted Version](https://djangorestcustom.herokuapp.com/api/register)
+## [Register API](https://djangorestcustom.herokuapp.com/api/register)
 
-## [Login API](## [Hosted Version](https://djangorestcustom.herokuapp.com/api/login)
+## [Login API](https://djangorestcustom.herokuapp.com/api/login)
 
-## [Logout API](## [Hosted Version](https://djangorestcustom.herokuapp.com/api/logout)
+## [Logout API](https://djangorestcustom.herokuapp.com/api/logout)
 
-## [Logoutall API](## [Hosted Version](https://djangorestcustom.herokuapp.com/api/logoutall)
+## [Logoutall API](https://djangorestcustom.herokuapp.com/api/logoutall)
 
 
 ## Author
